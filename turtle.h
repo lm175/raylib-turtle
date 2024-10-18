@@ -87,4 +87,36 @@ public:
     void done();
 };
 
+
+class TurtleAlgorithms : public Turtle {
+public:
+    void task_A1(int, int);
+    void task_A2(int, int);
+    void task_A3(int, int);
+    void task_A4(int, int);
+    void task_A5(int, int);
+    void task_A6(int, int);
+    void task_A7(int, int);
+    void task_A8(int, int);
+    void task_A9(int, int);
+    void task_A10(int, int);
+    void task_A11(int, int);
+    void task_A12(int, int);
+    void task_A13(int, int);
+    void task_B1(int, int);
+    void task_B2(int, int);
+    void task_B3(int, int);
+    void task_B4(int, int);
+    void task_B5(int, int);
+    void task_B6(int, int);
+    void task_B7(int, int);
+    void task_B8(int, int);
+    void task_C1(int, int);
+    void task_C2(int, int);
+    void task_C3(int, int);
+    void task_C6(int, int);
+    void task_C7(int, int);
+};
+
+
 #endif // TURTLE_GRAPHICS_H
